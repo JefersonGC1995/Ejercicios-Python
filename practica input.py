@@ -1,0 +1,7 @@
+#print("Escribe tu nombre:")
+#input("Escribe tu nombre:")
+#input("Escribe  tu apellido")
+#print("Tu nombre es:" + input("Escribe tu nombre")+" "input("Escribe tu apellido: "))
+print("Estas estudiando:"+ input("¿Que estas estudiando?"))
+print("vives en: " + input("¿Que pais vives?"))
+print("Tu nombre es: " + input("Escribe tu nombre: " ) + "" + input( "Escribe tu apellido: " ))

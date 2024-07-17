@@ -1,0 +1,10 @@
+nombre = input("Ingrese su nombre: ")
+edad = input("Ingrese su edad: ")
+print(f"Bienvenid@ {nombre} con {edad} años")
+
+numero = float(input("ingrese un numero de su preferencia: "))
+numeroUsuario = int(numero)
+print(type(numeroUsuario))
+datoentero = (numeroUsuario)
+doble = 2
+print(datoentero * doble)

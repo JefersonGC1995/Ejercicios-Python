@@ -1,3 +1,5 @@
-#print(´100+10´)
-#print()"hola" + "jefer")
-print(´Me llamo\ "jefer\"´)
+#print("100+10")
+#print("hola" + " jefer")
+#print("Me llamo\ "jefer\")
+print("Linea 1\nLinea 2\nLinea 3")
+print("A \tB \tC\nD \tE \tF\nG \tH \tI")

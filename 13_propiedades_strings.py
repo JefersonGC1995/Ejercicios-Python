@@ -17,4 +17,4 @@ print(len(palabra))
 
 print("poema" in poema)
 
-print("sol" in poema)
+print("sol" not in poema)
